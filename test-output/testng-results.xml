@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2078" started-at="2018-09-16T12:29:11Z" finished-at="2018-09-16T12:29:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2078" started-at="2018-09-16T12:29:11Z" finished-at="2018-09-16T12:29:13Z">
+      <class name="com.restpi.tests.UpdateCall">
+        <test-method status="PASS" signature="testUpdateUserApi()[pri:0, instance:com.restpi.tests.UpdateCall@7c16905e]" name="testUpdateUserApi" duration-ms="2037" started-at="2018-09-16T12:29:11Z" finished-at="2018-09-16T12:29:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateUserApi -->
+      </class> <!-- com.restpi.tests.UpdateCall -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
